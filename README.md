@@ -5,3 +5,7 @@ Az időszámoló funkció órákban számol, és nem a valódi utazási időt sz
 
 Nem garantálom hogy jó a generált gtfs, de azért remélem.
 update: softeng bot elfogadta nekem
+
+
+Köszönet BitBuvolo-nek a javításokért!
+Ha mégis valami hiba van vele ott a régi verzió is.
